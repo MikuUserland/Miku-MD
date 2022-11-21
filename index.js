@@ -150,7 +150,7 @@ Miku.ev.on('group-participants.update', async (anu) => {
                 if (anu.action == 'add') {
                 let WAuserName = num
                 mikutext = `
-Hello @${WAuserName.split("@")[0]},
+Hello @${WAuserName.split("@")[0]}Dear😇,
 
 I am *𝐇𝐢𝐧𝐚𝐭𝐚*, Welcome to ${metadata.subject}.
 
