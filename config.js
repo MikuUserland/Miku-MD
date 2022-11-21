@@ -10,7 +10,7 @@ global.antitags = true
 global.Owner = ['916003951523']
 global.OwnerNumber = ['916003951523']
 global.ownertag = ['916003951523']
-global.BotName = "💘Ｈｉｎａｔａ"
+global.BotName = "Ｈｉｎａｔａ💘"
 global.packname = " ▀▄▀▄ Ɲᴇꪎꪎᴇʀ  ꢺᴀϻᴀ ▄▀▄▀ "
 global.author = "ㅤ"
 global.OwnerName = "Ɲᴇꪎꪎᴇʀ  ꢺᴀϻᴀ"
@@ -61,7 +61,7 @@ global.mess = {
     jobdone: 'Job done...',
     useradmin: 'Sorry, only *Group Admins* can use this command *Baka*!',
     botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-    botowner: 'Only my *Owner* can use this command, Baka!',
+    botowner: 'Only *Ɲᴇꪎꪎᴇʀ  ꢺᴀϻᴀ* can use this command, Baka!',
     grouponly: 'This command is only made for *Groups*, Baka!',
     privateonly: 'This command is only made for *Private Chat*, Baka!',
     botonly: 'Only the *Bot itself* can use this command!',
